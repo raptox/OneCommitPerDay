@@ -10,6 +10,7 @@ commit_message=`w3m -dump http://whatthecommit.com | head -1`
 # add new content to file, commit and push
 cd $project_directory
 echo "$commit_message on `date`" >> $commit_file
+git pull origin master
 git add $commit_file
 git commit -m "$commit_message"
 git push origin master
