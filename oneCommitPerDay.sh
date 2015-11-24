@@ -9,7 +9,7 @@ if [ ! -f $commit_file ] ; then
 fi
 
 # add new content to file, commit and push
-echo "$commit_message on `date`" > $commit_file
+echo "$commit_message on `date`" >> $commit_file
 git add $commit_file
 git commit -m "$commit_message"
 git push origin master
