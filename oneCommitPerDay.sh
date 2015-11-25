@@ -6,11 +6,12 @@ project_directory="/home/pi/work/OneCommitPerDay/"
 
 commit_file="commitFile.txt"
 commit_message=`w3m -dump http://whatthecommit.com | head -1`
+branch="master"
 
 # add new content to file, commit and push
 cd $project_directory
 echo "`date --iso-8601` | $commit_message" >> $commit_file
-git pull origin master
+git pull origin $branch
 git add $commit_file
 git commit -m "$commit_message"
-git push origin master
+git push origin $branch
