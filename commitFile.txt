@@ -10,3 +10,4 @@ Well, it's doing something. on Tue 24 Nov 21:18:02 UTC 2015
 Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-11-24 | epic
 2015-11-25 | bugger
+2015-11-25 | this doesn't really make things faster, but I tried
