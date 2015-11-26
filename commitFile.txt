@@ -11,3 +11,6 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-11-24 | epic
 2015-11-25 | bugger
 2015-11-25 | this doesn't really make things faster, but I tried
+2015-11-25 | grmbl
+2015-11-25 | added super-widget 2.0.
+2015-11-26 | I'm too foo for this bar
