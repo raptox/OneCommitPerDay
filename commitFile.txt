@@ -16,3 +16,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-11-26 | I'm too foo for this bar
 2015-11-27 | I don't know what these changes are supposed to accomplish but somebody told me
 2015-11-28 | Derp, asset redirection in dev mode
+2015-11-29 | I'M PUSHING.
