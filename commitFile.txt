@@ -18,3 +18,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-11-28 | Derp, asset redirection in dev mode
 2015-11-29 | I'M PUSHING.
 2015-11-30 | fixes
+2015-12-01 | I CAN HAZ PYTHON, I CAN HAZ INDENTS
