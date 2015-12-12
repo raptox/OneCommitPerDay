@@ -29,3 +29,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-12-09 | Nothing to see here, move along
 2015-12-10 | s/ / /g
 2015-12-11 | perfect...
+2015-12-12 | Make that it works in 90% of the cases. 3:30.
