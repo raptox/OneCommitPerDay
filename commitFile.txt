@@ -32,3 +32,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-12-12 | Make that it works in 90% of the cases. 3:30.
 2015-12-13 | i dunno, maybe this works
 2015-12-14 | DEAL WITH IT
+2015-12-15 | Committed some changes
