@@ -34,3 +34,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-12-14 | DEAL WITH IT
 2015-12-15 | Committed some changes
 2015-12-16 | I hate this fucking language.
+2015-12-17 | JEFFERSON, WE WENT OVER THIS. C++ IO SUCKS.
