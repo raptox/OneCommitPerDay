@@ -39,3 +39,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-12-19 | buenas those-things.
 2015-12-20 | Fixed the fuck out of #763!
 2015-12-21 | I don't give a damn 'bout my reputation
+2015-12-22 | unionfind is no longer being molested.
