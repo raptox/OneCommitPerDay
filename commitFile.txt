@@ -42,3 +42,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2015-12-22 | unionfind is no longer being molested.
 2015-12-23 | oops - thought I got that one.
 2015-12-24 | Handled a particular error.
+2015-12-25 | hey, what's that over there?!
