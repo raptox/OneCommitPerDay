@@ -64,3 +64,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-01-13 | :(:(
 2016-01-14 | (\ /)
 2016-01-15 | pep8 fixer
+2016-01-16 | Future self, please forgive me and don't hit me with the baseball bat again!
