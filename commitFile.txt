@@ -87,3 +87,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-02-05 | No time to commit.. My people need me!
 2016-02-06 | another big bag of changes
 2016-02-07 | Nitpicking about alphabetizing methods, minor OCD thing
+2016-02-08 | 8==========D
