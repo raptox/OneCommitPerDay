@@ -112,3 +112,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-03-01 | copy and paste is not a design pattern
 2016-03-02 | Nitpicking about alphabetizing methods, minor OCD thing
 2016-03-03 | I'm totally adding this to epic win. +300
+2016-03-04 | That's just how I roll
