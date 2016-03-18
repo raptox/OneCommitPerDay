@@ -126,3 +126,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-03-15 | Reinventing the wheel. Again.
 2016-03-16 | fixed the israeli-palestinian conflict
 2016-03-17 | a few bits tried to escape, but we caught them
+2016-03-18 | Well the book was obviously wrong.
