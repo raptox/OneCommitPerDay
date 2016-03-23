@@ -131,3 +131,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-03-20 | a few bits tried to escape, but we caught them
 2016-03-21 | i dunno, maybe this works
 2016-03-22 | It's getting hard to keep up with the crap I've trashed
+2016-03-23 | derp, helper method rename
