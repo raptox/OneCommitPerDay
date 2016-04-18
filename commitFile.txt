@@ -157,3 +157,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-04-15 | removed echo and die statements, lolz.
 2016-04-16 | Committing in accordance with the prophecy.
 2016-04-17 | unh
+2016-04-18 | I don't know what the hell I was thinking.
