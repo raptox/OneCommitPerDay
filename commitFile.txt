@@ -161,3 +161,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-04-19 | FOR REAL.
 2016-04-20 | 
 2016-04-21 | Herping the derp derp (silly scoping error)
+2016-04-22 | done. going to bed now.
