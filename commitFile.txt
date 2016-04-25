@@ -164,3 +164,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-04-22 | done. going to bed now.
 2016-04-23 | Reticulating splines...
 2016-04-24 | derp, helper method rename
+2016-04-25 | -m \'So I hear you like commits ...\'
