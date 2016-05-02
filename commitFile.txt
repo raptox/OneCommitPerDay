@@ -171,3 +171,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-04-29 | Something fixed
 2016-04-30 | Some shit.
 2016-05-01 | pgsql is more strict, increase the hackiness up to 11
+2016-05-02 | It only compiles every 4 tries... good luck.
