@@ -176,3 +176,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-05-04 | debug suff
 2016-05-05 | This commit is a lie
 2016-05-06 | Ok, 5am, it works. For real.
+2016-05-07 | totally more readable
