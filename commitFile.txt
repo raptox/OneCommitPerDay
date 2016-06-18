@@ -218,3 +218,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-06-15 | I'm human
 2016-06-16 | Same as last commit with changes
 2016-06-17 | Committed some changes
+2016-06-18 | if you're not using et, fuck off
