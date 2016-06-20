@@ -220,3 +220,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-06-17 | Committed some changes
 2016-06-18 | if you're not using et, fuck off
 2016-06-19 | fixed mistaken bug
+2016-06-20 | ALL SORTS OF THINGS
