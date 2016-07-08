@@ -238,3 +238,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-05 | better ignores
 2016-07-06 | Ugh. Bad rebase.
 2016-07-07 | removed tests since i can't make them green
+2016-07-08 | wip
