@@ -243,3 +243,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-10 | TODO: write meaningful commit message
 2016-07-11 | clarify further the brokenness of C++. why the fuck are we using C++?
 2016-07-12 | added some filthy stuff
+2016-07-13 | bugger
