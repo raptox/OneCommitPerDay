@@ -245,3 +245,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-12 | added some filthy stuff
 2016-07-13 | bugger
 2016-07-14 | dirty hack, have a better idea ?
+2016-07-15 | It'd be nice if type errors caused the compiler to issue a type error
