@@ -248,3 +248,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-15 | It'd be nice if type errors caused the compiler to issue a type error
 2016-07-16 | Shovelling coal into the server...
 2016-07-17 | Derp. Fix missing constant post rename
+2016-07-18 | I don't know what the hell I was thinking.
