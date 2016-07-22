@@ -252,3 +252,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-19 | it is hump day _^_
 2016-07-20 | Locating the required gigapixels to render...
 2016-07-21 | fixed errors in the previous commit
+2016-07-22 | Version control is awful
