@@ -264,3 +264,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-07-31 | first blush
 2016-08-01 | Some bugs fixed
 2016-08-02 | Who knows...
+2016-08-03 | pgsql is being a pain
