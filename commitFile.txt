@@ -270,3 +270,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-08-06 | It's 2015; why are we using ColdFusion?!
 2016-08-07 | lol digg
 2016-08-08 | Shit code!
+2016-08-09 | small is a real HTML tag, who knew.
