@@ -272,3 +272,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-08-08 | Shit code!
 2016-08-09 | small is a real HTML tag, who knew.
 2016-08-10 | Trust me, it's not badly written. It's just way above your head.
+2016-08-11 | Derpy hooves
