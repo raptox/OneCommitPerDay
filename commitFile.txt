@@ -274,3 +274,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-08-10 | Trust me, it's not badly written. It's just way above your head.
 2016-08-11 | Derpy hooves
 2016-08-12 | Just stop reading these for a while, ok..
+2016-08-13 | Replace all whitespaces with tabs.
