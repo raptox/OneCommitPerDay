@@ -281,3 +281,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-08-17 | More ignore
 2016-08-18 | Arrrrgggg
 2016-08-19 | It's 2016; why are we using ColdFusion?!
+2016-08-20 | Herp derp I left the debug in there and forgot to reset errors.
