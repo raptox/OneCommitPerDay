@@ -305,3 +305,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-09-10 | added super-widget 2.0.
 2016-09-11 | <<<<<<<<<<<<<<< HEAD
 2016-09-12 | fixes
+2016-09-13 | Well the book was obviously wrong.
