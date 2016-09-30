@@ -322,3 +322,4 @@ Apparently works-for-me is a crappy excuse. on Tue Nov 24 22:03:06 UTC 2015
 2016-09-27 | changes
 2016-09-28 | pay no attention to the man behind the curtain
 2016-09-29 | I know what I am doing. Trust me.
+2016-09-30 | fuckup.
